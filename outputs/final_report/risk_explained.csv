@@ -1,0 +1,2017 @@
+risk_rank,junction_name,IPII,risk_category,top_contributing_factor,top_factor_share_pct,risk_explanation
+1,Btp042 - Minsk Square Junction (Cto),72.02,Critical,Severity (violation volume/weight),50.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+2,Btp020 - Hosahalli Metro Station,70.66,Critical,Severity (violation volume/weight),58.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+3,Btp032 - Windsor Circle,70.44,Critical,Severity (violation volume/weight),54.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+4,Btp058 - Subbanna Junction,68.69,High,Severity (violation volume/weight),62.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+5,Btp051 - Safina Plaza Junction,67.81,High,Severity (violation volume/weight),73.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+6,Btp082 - Kr Market Junction,63.57,High,Severity (violation volume/weight),73.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+7,"Btp011 - Rr Kalyana Mantapa, Dr. Rajkumar Road",62.93,High,Severity (violation volume/weight),51.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+8,Btp044 - Sagar Theatre Junction,62.62,High,Severity (violation volume/weight),75.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+9,Btp040 - Elite Junction,62.16,High,Severity (violation volume/weight),76.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+10,Btp027 - Modi Bridge Junction,58.43,High,Severity (violation volume/weight),70.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+11,Btp172 - Nanjappa Circle,56.93,High,Severity (violation volume/weight),55.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+12,"Btp083 - As Char Street, Mysore Road",54.86,High,Severity (violation volume/weight),74.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+13,"Btp170 - Dr. Bheem Rao Palace, Chord Road",54.63,High,Severity (violation volume/weight),53.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+14,Btp211 - Central Street Junction,54.52,High,Severity (violation volume/weight),79.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+15,Btp057 - Anand Rao Junction,53.6,High,Severity (violation volume/weight),75.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+16,"Btp101 - Blood Bank Circle, Kh Road",51.65,High,Severity (violation volume/weight),52.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+17,Btp045 - Danvanthri Road Junction,49.94,Moderate,Severity (violation volume/weight),78.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+18,Btp023 - Mahalaxmi Layout Entrance,49.86,Moderate,Severity (violation volume/weight),70.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+19,Btp048 - Shanthala Junction,48.27,Moderate,Severity (violation volume/weight),79.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+20,Btp068 - Veeresh Theatre Junction,47.96,Moderate,Severity (violation volume/weight),59.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+21,Btp137 - Madiwala Traffic Ps Junction,47.54,Moderate,Severity (violation volume/weight),64.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+22,Btp142 - Lower Agram Road Junction,47.11,Moderate,Behavioral risk (repeat offenders + peak-hour concentration),35.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Behavioral risk (repeat offenders + peak-hour concentration) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+23,"Btp189 - New Diagonal Road, Jayanagar",46.89,Moderate,Severity (violation volume/weight),64.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+24,"Btp001 - 10Th Cross, Dr. Rajkumar Road",46.85,Moderate,Severity (violation volume/weight),80.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+25,"Btp148 - 17Th Main, Doopanahalli Bus Stop",46.33,Moderate,Severity (violation volume/weight),75.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+26,"Btp080 - Nr Road, Sp Road Junction",46.07,Moderate,Severity (violation volume/weight),87.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+27,"Btp070 - Cholurpalya Junction, Magadi Road",45.65,Moderate,Severity (violation volume/weight),85.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+28,Btp061 - Bhashyam Circle,45.59,Moderate,Severity (violation volume/weight),70.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+29,Btp104 - Medical College Circle,45.42,Moderate,Severity (violation volume/weight),73.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+30,Btp043 - Upparpet Junction,45.09,Moderate,Severity (violation volume/weight),76.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+31,Btp096 - Gali Anjaneya Temple,44.91,Moderate,Severity (violation volume/weight),78.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+32,Btp132 - Anepalya Junction,44.81,Moderate,Severity (violation volume/weight),48.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+33,"Btp016 - 5Th Main Road, Rpc Layout",44.6,Moderate,Severity (violation volume/weight),81.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+34,Btp108 - Tagore Park Junction,43.21,Moderate,Severity (violation volume/weight),82.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+35,Btp140 - Madiwala Check Post,43.12,Moderate,Severity (violation volume/weight),67.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+36,Btp041 - Gopal Gowda Circle,43.06,Moderate,Severity (violation volume/weight),67.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+37,"Btp095 - Satellite Bus Stand, Mysore Road",42.48,Moderate,Severity (violation volume/weight),71.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+38,Btp038 - Mysore Bank Junction,42.46,Moderate,Severity (violation volume/weight),85.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+39,Btp130 - Gd Mara Junction,42.27,Moderate,Severity (violation volume/weight),73.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+40,Btp135 - Uco Bank Junction,42.11,Moderate,Severity (violation volume/weight),82.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+41,"Btp182 - 19Th Main Junction, Rajajinagar",41.96,Moderate,Severity (violation volume/weight),78.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+42,Btp069 - Mc Circle,41.57,Moderate,Severity (violation volume/weight),78.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+43,"Btp022 - Marenahalli Junction, Vijayanagar",41.16,Moderate,Severity (violation volume/weight),81.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+44,"Btp117 - 9Th Cross, Kanakapura Road",40.93,Moderate,Severity (violation volume/weight),59.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+45,Btp063 - Siddalingaiah Circle,40.92,Moderate,Severity (violation volume/weight),83.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+46,Btp205 - Modi Hospital Junction,40.78,Moderate,Severity (violation volume/weight),79.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+47,Btp180 - Swagath Poornima Theatre,40.2,Moderate,Severity (violation volume/weight),59.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+48,Btp074 - Leprosy Hospital Junction,40.05,Moderate,Severity (violation volume/weight),84.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+49,"Btp024 - Nps, Vijayanagar",39.89,Moderate,Severity (violation volume/weight),72.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+50,Btp010 - Rajajinagar Entrance,39.76,Moderate,Severity (violation volume/weight),84.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+51,"Btp206 - Shankara Mutt Circle, Vijayanagar",39.74,Moderate,Severity (violation volume/weight),71.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+52,"Btp226 - 33Rd Cross, 11Th Main, Jayanagar",39.65,Moderate,Severity (violation volume/weight),83.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+53,Btp143 - Asc Junction,39.55,Moderate,Behavioral risk (repeat offenders + peak-hour concentration),57.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Behavioral risk (repeat offenders + peak-hour concentration) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+54,"Btp026 - 1St Block Junction, Rajajinagar",39.23,Moderate,Severity (violation volume/weight),78.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+55,Btp208 - Havanur Circle,39.07,Moderate,Severity (violation volume/weight),76.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+56,Btp118 - Basappa Circle,39.0,Moderate,Severity (violation volume/weight),74.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+57,"Btp033 - Sophia High School, Sankey Road",38.58,Moderate,Severity (violation volume/weight),50.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+58,Btp008 - Navarang Theatre,38.57,Moderate,Severity (violation volume/weight),80.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+59,Btp136 - Hosur-Tavarkere Road Junction,37.96,Moderate,Severity (violation volume/weight),77.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+60,"Btp179 - 9Th Block, 28Th Main, Jayanagar",37.52,Moderate,Severity (violation volume/weight),74.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+61,"Btp123 - 10Th Cross, Wilson Garden",37.41,Moderate,Severity (violation volume/weight),75.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+62,Btp109 - Dewan Madhava Rao Junction,37.05,Moderate,Severity (violation volume/weight),65.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+63,"Btp188 - 27Th Cross, 4Th Main, Jayanagar",37.02,Moderate,Severity (violation volume/weight),70.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+64,Btp100 - Richmond Circle,36.89,Moderate,Severity (violation volume/weight),70.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+65,Btp028 - Vijayanagar Bus Stand Junction,36.72,Moderate,Severity (violation volume/weight),81.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+66,"Btp099 - Cash Pharmacy, Residency Road",36.06,Moderate,Severity (violation volume/weight),78.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+67,Btp018 - Dhobi Ghat Junction,35.97,Moderate,Severity (violation volume/weight),74.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+68,"Btp202 - East End Main Road, Jayanagar",35.82,Moderate,Severity (violation volume/weight),77.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+69,"Btp204 - Esi Hospital, Rajajinagar",35.66,Moderate,Severity (violation volume/weight),75.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+70,Btp192 - Urvashi Theater,35.51,Moderate,Severity (violation volume/weight),85.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+71,Btp054 - Shivananda Circle,35.43,Moderate,Severity (violation volume/weight),89.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+72,"Btp127 - Sagar Hospital, Jayanagar",35.33,Moderate,Severity (violation volume/weight),76.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+73,Btp091 - Sirsi Circle,34.84,Moderate,Severity (violation volume/weight),80.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+74,Btp126 - Dairy Circle,34.8,Moderate,Severity (violation volume/weight),83.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+75,Btp092 - Bangalore Builders Junction,34.73,Moderate,Severity (violation volume/weight),69.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+76,"Btp115 - Sahasra Hospital, Jayanagar",34.69,Moderate,Severity (violation volume/weight),77.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+77,"Btp062 - Basava Mantapa, Dr. Rajkumar Road",34.61,Moderate,Severity (violation volume/weight),81.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+78,Btp071 - Prasanna Junction,34.44,Moderate,Severity (violation volume/weight),89.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+79,"Btp089 - Police Quarters, Sultan Road",34.31,Moderate,Severity (violation volume/weight),61.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+80,"Btp186 - 9Th Cross, 4Th Main, Jayanagar",34.27,Moderate,Severity (violation volume/weight),80.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+81,Btp122 - Siddapura Junction,34.25,Moderate,Severity (violation volume/weight),60.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+82,Btp078 - Nr Square Junction,34.05,Moderate,Severity (violation volume/weight),66.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+83,Btp167 - Jc Road Junction,33.94,Moderate,Severity (violation volume/weight),72.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+84,"Btp168 - Msr Building, Jc Road",33.92,Moderate,Severity (violation volume/weight),58.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+85,Btp098 - Nayandahalli Junction,33.39,Moderate,Severity (violation volume/weight),80.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+86,"Btp210 - 50Th Cross, 12Th Main , Rajajinagar",32.85,Moderate,Severity (violation volume/weight),80.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+87,Btp076 - Hudson Circle,32.6,Moderate,Severity (violation volume/weight),85.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+88,Btp196 - Sarakki Main Road,32.07,Moderate,Severity (violation volume/weight),54.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+89,"Btp163 - 16Th Main Road, Btm Layout",31.98,Moderate,Severity (violation volume/weight),82.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+90,"Btp093 - Toll Gate, Mysore Road",31.81,Moderate,Severity (violation volume/weight),66.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+91,"Btp145 - Sri Hatti Maramma Circle, Domluru",31.74,Moderate,Severity (violation volume/weight),71.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+92,Btp203 - Rrmr Junction,31.71,Moderate,Severity (violation volume/weight),66.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+93,"Btp094 - Sri Skanda Complex, Mysore Road",31.47,Moderate,Severity (violation volume/weight),72.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+94,Btp155 - Katriguppe Junction,31.28,Moderate,Severity (violation volume/weight),87.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+95,Btp067 - Jai Muni Rao Circle,31.25,Moderate,Severity (violation volume/weight),84.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+96,Btp017 - Attiguppe Circle,31.11,Moderate,Severity (violation volume/weight),81.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+97,Btp218 - Syndicate Bank Junction,30.76,Moderate,Severity (violation volume/weight),82.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+98,Btp133 - Adugodi Junction,30.74,Moderate,Severity (violation volume/weight),61.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+99,Btp085 - Briyand Circle,30.51,Moderate,Severity (violation volume/weight),73.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+100,"Btp176 - Rajalakshmi Kalyana Mantapa, Jp Nagar",30.01,Moderate,Severity (violation volume/weight),79.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+101,"Btp197 - 9Th Cross, 24Th Main, Jp Nagar",29.99,Low,Severity (violation volume/weight),82.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+102,Btp215 - Vanivillas Junction,29.84,Low,Severity (violation volume/weight),91.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+103,Btp106 - Vv Puram College,29.8,Low,Severity (violation volume/weight),69.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+104,Btp207 - 8Th Main Road Basaveshwara Nagar,29.6,Low,Severity (violation volume/weight),71.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+105,Btp064 - Devanga Hostel Junction,29.57,Low,Severity (violation volume/weight),64.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+106,Btp225 - Geetha Junction,29.37,Low,Severity (violation volume/weight),89.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+107,Btp214 - 5Th Main Chamrajpet  Junction,29.35,Low,Severity (violation volume/weight),92.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+108,Btp120 - Lalbagh Main Gate Junction,29.13,Low,Severity (violation volume/weight),79.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+109,Btp220 - Puttanna Junction,28.54,Low,Severity (violation volume/weight),89.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+110,Btp219 - Canara Bank Junction,28.48,Low,Severity (violation volume/weight),92.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+111,"Btp177 - Aurobindo Circle, Orr",28.14,Low,Severity (violation volume/weight),79.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+112,"Btp015 - Suguna Hospital, Dr. Rajkumar Road",28.11,Low,Severity (violation volume/weight),56.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+113,Btp105 - Shivasankara Circle,28.1,Low,Severity (violation volume/weight),78.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+114,Btp034 - Lrde Junction,27.71,Low,Severity (violation volume/weight),80.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+115,Btp047 - Vidhan Soudha Metro Station,27.71,Low,Severity (violation volume/weight),85.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+116,Btp212 - Minto Junction,27.62,Low,Severity (violation volume/weight),63.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+117,Btp216 - Yediyur Junction,27.41,Low,Severity (violation volume/weight),73.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+118,Btp119 - Minerva Circle,27.4,Low,Severity (violation volume/weight),81.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+119,Btp009 - Prakash Nagar Junction,27.34,Low,Severity (violation volume/weight),76.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+120,Btp037 - Kr Circle,27.25,Low,Severity (violation volume/weight),88.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+121,Btp052 - Cid Carlton House Junction,26.39,Low,Severity (violation volume/weight),86.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+122,Btp075 - Police Corner,26.03,Low,Severity (violation volume/weight),84.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+123,"Btp191 - 40Th Cross, 4Th Main, Jayanagar",26.01,Low,Severity (violation volume/weight),66.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+124,Btp146 - Domlur Water Tank,25.83,Low,Severity (violation volume/weight),83.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+125,Btp107 - National College Junction,25.72,Low,Severity (violation volume/weight),66.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+126,Btp185 - Rv Teachers College,25.55,Low,Severity (violation volume/weight),59.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+127,Btp138 - Sarjapur Road Check Post,25.55,Low,Severity (violation volume/weight),65.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+128,Btp193 - Vasavi Circle,25.48,Low,Severity (violation volume/weight),75.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+129,Btp184 - Lalbagh West Gate,25.32,Low,Severity (violation volume/weight),88.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+130,"Btp113 - 27Th Cross, Pai Vista, Kr Road",25.22,Low,Severity (violation volume/weight),80.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+131,"Btp221 - 15Th Cross, 24Th Main, Jp Nagar",25.12,Low,Severity (violation volume/weight),82.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+132,Btp166 - Coffee Board Junction,24.8,Low,Severity (violation volume/weight),80.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+133,Btp030 - Mekhri Circle,24.8,Low,Severity (violation volume/weight),73.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+134,"Btp102 - Bmtc Junction, Kh Road",23.81,Low,Severity (violation volume/weight),90.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+135,Btp171 - Indian Express (Balekundri),23.81,Low,Severity (violation volume/weight),74.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+136,Btp121 - Kh Circle,23.14,Low,Severity (violation volume/weight),83.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+137,Btp128 - Gorappanapalya Junction,23.01,Low,Severity (violation volume/weight),70.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+138,Btp173 - Tmc,22.93,Low,Severity (violation volume/weight),81.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+139,"Btp200 - 15Th Cross, 33Rd Main, Jp Nagar",22.83,Low,Severity (violation volume/weight),43.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+140,Btp103 - Shanti Nagar Ttmc,22.49,Low,Severity (violation volume/weight),90.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+141,Btp036 - Police Thimmaiah Circle (Gpo),22.4,Low,Severity (violation volume/weight),81.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+142,"Btp190 - 36Th Cross, 4Th Main, Jayanagar",22.3,Low,Severity (violation volume/weight),93.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+143,Btp141 - Palmgroove Junction,22.26,Low,Severity (violation volume/weight),71.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+144,"Btp159 - Jp Nagar Metro, Orr",22.24,Low,Severity (violation volume/weight),87.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+145,Btp222 - Delmia Circle,22.11,Low,Severity (violation volume/weight),88.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+146,Btp077 - Halasuru Gate Junction,21.75,Low,Severity (violation volume/weight),38.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+147,Btp079 - Town Hall Junction,21.74,Low,Severity (violation volume/weight),92.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+148,Btp217 - Baleyele Junction,19.86,Low,Severity (violation volume/weight),92.4,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+149,"Btp114 - Kr Road Junction, Near Jss",19.5,Low,Severity (violation volume/weight),82.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+150,Btp035 - Basaweshwara Circle (Lh) Junction,18.54,Low,Severity (violation volume/weight),62.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+151,Btp213 - Royan Circle,18.44,Low,Severity (violation volume/weight),75.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+152,Btp187 - South End Circle,17.37,Low,Severity (violation volume/weight),73.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+153,Btp053 - Three Let Junction,17.23,Low,Severity (violation volume/weight),80.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+154,"Btp164 - 29Th Main Road, Btm Layout",17.19,Low,Severity (violation volume/weight),67.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+155,Btp134 - Mico Bande,17.08,Low,Severity (violation volume/weight),73.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+156,"Btp161 - 15Th Cross, 35Th Main, Jp Nagar",15.31,Low,Severity (violation volume/weight),78.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+157,Btp158 - Devegowda Petrol Bunk,14.84,Low,Severity (violation volume/weight),82.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+158,"Btp025 - Puttamma Choultry, Nagarbhavi",12.77,Low,Severity (violation volume/weight),71.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+159,Btp006 - Navarang Bar Junction,11.88,Low,Severity (violation volume/weight),87.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+160,Btp157 - Kadirenahalli Cross,10.63,Low,Severity (violation volume/weight),71.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+161,"Btp198 - 9Th Cross, 8Th Main, Jp Nagar",8.3,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+162,Btp156 - Kamakya Junction,7.63,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+163,"Btp112 - 14Th Cross, Kr Road",4.74,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+164,Btp154 - Itmadu Junction,3.17,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+165,Btp181 - Bileka Halli Junction,2.41,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+166,Btp144 - Commando Hospital Junction,1.99,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+167,"Btp178 - 18Th Main, Marenahalli",0.56,Low,Severity (violation volume/weight),100.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+168,"Btp110 - Bharathi Nursing Home, Basavanagudi",0.0,Low,Severity (violation volume/weight),0.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."

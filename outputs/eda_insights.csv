@@ -1,0 +1,11 @@
+,0
+peak_hour,5
+peak_day,Sunday
+top_10_junction_share_pct,49.9
+top_5pct_junction_share_pct,44.84
+top_10pct_junction_share_pct,62.06
+critical_junctions,"['Btp051 - Safina Plaza Junction', 'Btp082 - Kr Market Junction']"
+violations_per_vehicle,1.29
+top_vehicle_type,Scooter
+top_violation_type,Wrong Parking
+risk_level_overall,High concentration system

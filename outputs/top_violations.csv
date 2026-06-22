@@ -1,0 +1,11 @@
+violation_type,count
+Wrong Parking,138764
+No Parking,119576
+"Parking In A Main Road,Wrong Parking",9472
+"Parking In A Main Road,No Parking",4818
+"Wrong Parking,Defective Number Plate",3317
+"No Parking,Parking In A Main Road",2449
+"No Parking,Defective Number Plate",2380
+"Wrong Parking,Parking In A Main Road",1955
+"Parking On Footpath,Wrong Parking",1190
+"No Parking,Wrong Parking",891

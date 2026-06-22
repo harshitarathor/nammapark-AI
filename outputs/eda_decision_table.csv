@@ -1,0 +1,11 @@
+junction_name,violation_count,pct_contribution,z_score,composite_score,risk_label,repeat_rate,diversity_norm,growth_pct,growth_norm,HPI,recommended_action
+Btp051 - Safina Plaza Junction,15449,10.26,7.2,0.909,CRITICAL HOTSPOT,0.14404973357015985,1.0,19.7,0.2788,0.72,Permanent camera + Multi-violation enforcement
+Btp082 - Kr Market Junction,11538,7.66,5.26,0.634,CRITICAL HOTSPOT,0.11223750905141203,0.6,10.6,0.2424,0.517,Deploy camera + immediate patrol
+Btp040 - Elite Junction,10718,7.12,4.86,0.583,HIGH HOTSPOT,0.12343195266272189,0.4,25.9,0.30360000000000004,0.499,Increase patrol frequency
+Btp044 - Sagar Theatre Junction,10549,7.01,4.77,0.579,HIGH HOTSPOT,0.12834289901086823,0.41333333333333333,-10.6,0.1576,0.453,Increase patrol frequency
+Btp048 - Shanthala Junction,1593,1.06,0.34,0.101,LOW HOTSPOT,0.05345060893098782,0.6266666666666667,251.9,1.0,0.371,Emerging hotspot monitoring + Multi-violation enforcement
+Btp069 - Mc Circle,1075,0.71,0.09,0.099,LOW HOTSPOT,0.11534276387377584,0.22666666666666666,252.2,1.0,0.369,Emerging hotspot monitoring
+"Btp024 - Nps, Vijayanagar",632,0.42,-0.13,0.074,LOW HOTSPOT,0.1089866156787763,0.12,520.0,1.0,0.352,Emerging hotspot monitoring
+Btp211 - Central Street Junction,5388,3.58,2.22,0.32,MODERATE HOTSPOT,0.10261437908496732,0.72,56.1,0.4244,0.351,Emerging hotspot monitoring + Multi-violation enforcement
+"Btp188 - 27Th Cross, 4Th Main, Jayanagar",294,0.2,-0.3,0.071,LOW HOTSPOT,0.13924050632911392,0.13333333333333333,641.7,1.0,0.35,Emerging hotspot monitoring
+"Btp189 - New Diagonal Road, Jayanagar",602,0.4,-0.15,0.091,LOW HOTSPOT,0.15349887133182843,0.09333333333333334,187.5,0.95,0.349,Emerging hotspot monitoring

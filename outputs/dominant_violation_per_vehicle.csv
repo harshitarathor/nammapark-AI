@@ -1,0 +1,23 @@
+vehicle_type,violation_type
+Bus (Bmtc/Ksrtc),"Parking In A Main Road,Wrong Parking"
+Car,Wrong Parking
+Factory Bus,Wrong Parking
+Goods Auto,Wrong Parking
+Hgv,Wrong Parking
+Jeep,Wrong Parking
+Lgv,Wrong Parking
+Lorry/Goods Vehicle,Wrong Parking
+Maxi-Cab,No Parking
+Mini Lorry,Wrong Parking
+Moped,Wrong Parking
+Motor Cycle,Wrong Parking
+Others,Wrong Parking
+Passenger Auto,Wrong Parking
+Private Bus,Wrong Parking
+School Vehicle,Wrong Parking
+Scooter,Wrong Parking
+Tanker,Wrong Parking
+Tempo,Wrong Parking
+Tourist Bus,Wrong Parking
+Tractor,Wrong Parking
+Van,Wrong Parking

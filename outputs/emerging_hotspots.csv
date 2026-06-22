@@ -1,0 +1,159 @@
+junction_name,months_active,earlier_period_avg,recent_period_avg,growth_rate_percent,uncapped_growth_rate_percent,avg_monthly_violations,latest_month_violations,latest_share,emerging_score,emerging_rank,trend_category,trend_direction,trend_strength,volume_severity,IPII,final_priority
+Btp051 - Safina Plaza Junction,5,2839.0,2734.5,-3.68,-3.68,2951.8,2980,1.09,61.36,1,Emerging,Decreasing,Stable,Very High Volume,67.81,65.23
+Btp082 - Kr Market Junction,5,1574.0,2521.0,60.17,60.17,2201.0,2648,1.05,62.14,2,Emerging,Increasing,Growing,Very High Volume,65.17,63.96
+Btp044 - Sagar Theatre Junction,5,1886.0,1830.0,-2.97,-2.97,1992.4,1728,0.94,49.37,3,Stable,Decreasing,Stable,Very High Volume,62.62,57.32
+Btp040 - Elite Junction,5,2103.5,1816.5,-13.64,-13.64,2005.6,2025,1.11,49.47,4,Stable,Decreasing,Stable,Very High Volume,62.42,57.24
+Btp042 - Minsk Square Junction (Cto),5,392.5,371.5,-5.35,-5.35,402.0,440,1.18,29.35,5,Low Growth,Decreasing,Stable,Medium Volume,72.3,55.12
+Btp058 - Subbanna Junction,5,1087.0,774.0,-28.79,-28.79,946.6,872,1.13,34.68,6,Stable,Decreasing,Declining,High Volume,68.48,54.96
+Btp020 - Hosahalli Metro Station,5,926.5,586.0,-36.75,-36.75,806.0,516,0.88,30.17,7,Stable,Decreasing,Declining,High Volume,71.08,54.72
+Btp032 - Windsor Circle,5,856.0,191.5,-77.63,-77.63,545.6,233,1.22,23.72,8,Low Growth,Decreasing,Declining,High Volume,71.09,52.14
+"Btp011 - Rr Kalyana Mantapa, Dr. Rajkumar Road",5,181.0,230.5,27.35,27.35,223.6,253,1.1,27.66,9,Low Growth,Increasing,Growing,Medium Volume,63.95,49.43
+Btp027 - Modi Bridge Junction,5,1002.0,742.0,-25.95,-25.95,867.0,666,0.9,32.95,10,Stable,Decreasing,Declining,High Volume,59.33,48.78
+Btp211 - Central Street Junction,5,824.0,896.5,8.8,8.8,1048.0,1093,1.22,39.39,11,Stable,Increasing,Stable,Very High Volume,54.28,48.32
+Btp130 - Gd Mara Junction,5,26.5,236.5,500.0,792.45,112.4,315,1.33,58.59,12,Emerging,Increasing,Rapid Growth,Medium Volume,40.52,47.75
+Btp057 - Anand Rao Junction,5,903.0,568.5,-37.04,-37.04,738.4,739,1.3,32.02,13,Stable,Decreasing,Declining,High Volume,54.27,45.37
+"Btp083 - As Char Street, Mysore Road",5,477.0,565.5,18.55,18.55,537.4,582,1.03,33.19,14,Stable,Increasing,Stable,High Volume,52.96,45.05
+"Btp001 - 10Th Cross, Dr. Rajkumar Road",5,460.5,610.0,32.46,32.46,524.4,703,1.15,35.2,15,Stable,Increasing,Growing,High Volume,47.95,42.85
+Btp172 - Nanjappa Circle,5,149.5,143.5,-4.01,-4.01,149.0,158,1.1,23.28,16,Low Growth,Decreasing,Stable,Medium Volume,55.69,42.73
+Btp023 - Mahalaxmi Layout Entrance,5,317.0,390.5,23.19,23.19,327.4,403,1.03,29.98,17,Low Growth,Increasing,Growing,Medium Volume,50.96,42.57
+"Btp080 - Nr Road, Sp Road Junction",5,685.0,794.0,15.91,15.91,698.8,652,0.82,35.2,18,Stable,Increasing,Stable,High Volume,46.51,41.99
+"Btp170 - Dr. Bheem Rao Palace, Chord Road",5,93.5,130.5,39.57,39.57,108.8,97,0.74,23.05,19,Low Growth,Increasing,Growing,Medium Volume,53.86,41.54
+Btp045 - Danvanthri Road Junction,5,750.5,385.0,-48.7,-48.7,602.8,449,1.17,27.84,20,Low Growth,Decreasing,Declining,High Volume,50.28,41.3
+Btp137 - Madiwala Traffic Ps Junction,5,54.5,137.0,151.38,151.38,113.8,133,0.97,32.07,21,Stable,Increasing,Rapid Growth,Medium Volume,45.54,40.15
+Btp104 - Medical College Circle,5,215.0,289.5,34.65,34.65,275.4,283,0.98,28.8,22,Low Growth,Increasing,Growing,Medium Volume,47.12,39.79
+Btp043 - Upparpet Junction,5,338.0,309.0,-8.58,-8.58,347.6,292,0.94,26.63,23,Low Growth,Decreasing,Stable,Medium Volume,46.4,38.49
+Btp068 - Veeresh Theatre Junction,5,57.5,99.0,72.17,72.17,94.0,111,1.12,24.96,24,Low Growth,Increasing,Growing,Low Volume,47.35,38.39
+Btp048 - Shanthala Junction,5,312.5,244.0,-21.92,-21.92,311.0,380,1.56,28.13,25,Low Growth,Decreasing,Declining,Medium Volume,45.04,38.28
+"Btp070 - Cholurpalya Junction, Magadi Road",5,405.5,344.5,-15.04,-15.04,438.4,424,1.23,28.96,26,Low Growth,Decreasing,Stable,Medium Volume,44.25,38.13
+Btp061 - Bhashyam Circle,5,182.5,245.0,34.25,34.25,192.6,162,0.66,25.34,27,Low Growth,Increasing,Growing,Medium Volume,45.87,37.66
+"Btp024 - Nps, Vijayanagar",5,84.5,162.0,91.72,91.72,113.8,279,1.72,32.52,28,Stable,Increasing,Growing,Medium Volume,40.33,37.21
+Btp108 - Tagore Park Junction,5,257.0,300.0,16.73,16.73,321.2,254,0.85,27.48,29,Low Growth,Increasing,Stable,Medium Volume,43.59,37.15
+"Btp016 - 5Th Main Road, Rpc Layout",5,657.5,325.5,-50.49,-50.49,490.8,171,0.53,22.82,30,Low Growth,Decreasing,Declining,Medium Volume,46.23,36.87
+"Btp182 - 19Th Main Junction, Rajajinagar",5,246.0,281.0,14.23,14.23,260.0,255,0.91,26.75,31,Low Growth,Increasing,Stable,Medium Volume,43.55,36.83
+Btp069 - Mc Circle,5,181.0,208.0,14.92,14.92,206.6,324,1.56,28.89,32,Low Growth,Increasing,Stable,Medium Volume,41.55,36.49
+Btp208 - Havanur Circle,5,103.5,211.0,103.86,103.86,152.8,217,1.03,30.97,33,Stable,Increasing,Rapid Growth,Medium Volume,39.94,36.35
+Btp135 - Uco Bank Junction,5,175.5,261.0,48.72,48.72,216.2,344,1.32,30.55,34,Stable,Increasing,Growing,Medium Volume,40.12,36.29
+"Btp206 - Shankara Mutt Circle, Vijayanagar",5,110.0,185.0,68.18,68.18,141.6,123,0.66,25.97,35,Low Growth,Increasing,Growing,Medium Volume,41.59,35.34
+"Btp189 - New Diagonal Road, Jayanagar",5,154.0,62.0,-59.74,-59.74,111.2,92,1.48,19.82,36,Low Growth,Decreasing,Declining,Medium Volume,45.58,35.28
+Btp008 - Navarang Theatre,5,265.0,212.5,-19.81,-19.81,219.2,303,1.43,26.07,37,Low Growth,Decreasing,Stable,Medium Volume,40.87,34.95
+Btp038 - Mysore Bank Junction,5,516.5,226.0,-56.24,-56.24,389.0,207,0.92,22.77,38,Low Growth,Decreasing,Declining,Medium Volume,42.88,34.84
+Btp096 - Gali Anjaneya Temple,5,202.5,177.5,-12.35,-12.35,191.8,193,1.09,23.85,39,Low Growth,Decreasing,Stable,Medium Volume,41.92,34.69
+Btp205 - Modi Hospital Junction,5,172.0,236.5,37.5,37.5,198.6,136,0.58,25.12,40,Low Growth,Increasing,Growing,Medium Volume,40.81,34.53
+"Btp123 - 10Th Cross, Wilson Garden",5,65.5,158.0,141.22,141.22,94.6,169,1.07,29.88,41,Low Growth,Increasing,Rapid Growth,Low Volume,37.19,34.27
+"Btp186 - 9Th Cross, 4Th Main, Jayanagar",5,49.5,142.5,187.88,187.88,84.2,275,1.93,32.83,42,Stable,Increasing,Rapid Growth,Low Volume,35.09,34.19
+"Btp101 - Blood Bank Circle, Kh Road",5,134.5,13.0,-90.33,-90.33,81.8,7,0.54,8.99,43,Low Growth,Decreasing,Declining,Low Volume,50.94,34.16
+Btp074 - Leprosy Hospital Junction,5,199.0,210.5,5.78,5.78,197.6,274,1.3,26.7,44,Low Growth,Increasing,Stable,Medium Volume,38.92,34.03
+Btp109 - Dewan Madhava Rao Junction,5,6.0,74.5,500.0,1141.67,56.2,37,0.5,28.08,45,Low Growth,Increasing,Rapid Growth,Low Volume,37.4,33.67
+"Btp026 - 1St Block Junction, Rajajinagar",5,244.0,159.0,-34.84,-34.84,208.4,163,1.03,22.07,46,Low Growth,Decreasing,Declining,Medium Volume,41.03,33.45
+"Btp022 - Marenahalli Junction, Vijayanagar",5,265.0,204.0,-23.02,-23.02,223.8,151,0.74,21.97,47,Low Growth,Decreasing,Declining,Medium Volume,40.96,33.36
+Btp063 - Siddalingaiah Circle,5,288.0,161.5,-43.92,-43.92,205.4,225,1.39,23.45,48,Low Growth,Decreasing,Declining,Medium Volume,39.39,33.01
+"Btp095 - Satellite Bus Stand, Mysore Road",5,184.5,109.0,-40.92,-40.92,153.2,72,0.66,18.05,49,Low Growth,Decreasing,Declining,Medium Volume,42.6,32.78
+"Btp148 - 17Th Main, Doopanahalli Bus Stop",5,141.5,113.0,-20.14,-20.14,145.0,69,0.61,19.04,50,Low Growth,Decreasing,Declining,Medium Volume,41.9,32.76
+Btp010 - Rajajinagar Entrance,5,200.5,170.5,-14.96,-14.96,185.2,160,0.94,22.65,51,Low Growth,Decreasing,Stable,Medium Volume,38.27,32.02
+Btp118 - Basappa Circle,5,113.5,110.5,-2.64,-2.64,122.4,96,0.87,21.09,52,Low Growth,Decreasing,Stable,Medium Volume,39.28,32.0
+Btp028 - Vijayanagar Bus Stand Junction,5,164.5,169.0,2.74,2.74,147.2,156,0.92,22.97,53,Low Growth,Increasing,Stable,Medium Volume,37.36,31.6
+"Btp204 - Esi Hospital, Rajajinagar",5,99.0,120.5,21.72,21.72,106.8,92,0.76,21.79,54,Low Growth,Increasing,Growing,Medium Volume,38.1,31.58
+"Btp117 - 9Th Cross, Kanakapura Road",5,52.5,83.5,59.05,59.05,59.8,121,1.45,15.48,55,Low Growth,Increasing,Growing,Low Volume,41.18,30.9
+Btp071 - Prasanna Junction,5,95.5,148.0,54.97,54.97,139.4,132,0.89,25.91,56,Low Growth,Increasing,Growing,Medium Volume,33.57,30.51
+Btp140 - Madiwala Check Post,5,63.5,81.5,28.35,28.35,72.8,83,1.02,16.04,57,Low Growth,Increasing,Growing,Low Volume,39.93,30.37
+Btp041 - Gopal Gowda Circle,5,117.5,53.5,-54.47,-54.47,74.6,92,1.72,15.02,58,Low Growth,Decreasing,Declining,Low Volume,40.06,30.04
+Btp192 - Urvashi Theater,5,105.0,117.0,11.43,11.43,116.4,120,1.03,22.84,59,Low Growth,Increasing,Stable,Medium Volume,34.18,29.64
+Btp132 - Anepalya Junction,4,42.5,32.5,-23.53,-23.53,37.5,43,1.32,6.59,60,Low Growth,Decreasing,Declining,Low Volume,43.59,28.79
+Btp054 - Shivananda Circle,5,190.5,98.0,-48.56,-48.56,145.0,116,1.18,20.14,61,Low Growth,Decreasing,Declining,Medium Volume,34.16,28.55
+Btp167 - Jc Road Junction,5,45.5,90.5,98.9,98.9,65.8,100,1.1,17.77,62,Low Growth,Increasing,Growing,Low Volume,35.3,28.29
+Btp180 - Swagath Poornima Theatre,5,46.5,58.0,24.73,24.73,51.0,38,0.66,9.38,63,Low Growth,Increasing,Growing,Low Volume,39.65,27.54
+"Btp210 - 50Th Cross, 12Th Main , Rajajinagar",5,69.5,93.5,34.53,34.53,83.6,66,0.71,17.8,64,Low Growth,Increasing,Growing,Low Volume,33.69,27.33
+Btp017 - Attiguppe Circle,5,64.0,125.5,96.09,96.09,84.4,19,0.15,19.15,65,Low Growth,Increasing,Growing,Low Volume,32.43,27.12
+Btp207 - 8Th Main Road Basaveshwara Nagar,5,7.5,94.0,500.0,1153.33,42.2,82,0.87,21.66,66,Low Growth,Increasing,Rapid Growth,Low Volume,30.61,27.03
+Btp076 - Hudson Circle,5,76.5,119.0,55.56,55.56,84.8,85,0.71,19.53,67,Low Growth,Increasing,Growing,Low Volume,31.84,26.92
+"Btp226 - 33Rd Cross, 11Th Main, Jayanagar",5,117.5,73.5,-37.45,-37.45,88.6,58,0.79,14.94,68,Low Growth,Decreasing,Declining,Low Volume,34.06,26.41
+"Btp033 - Sophia High School, Sankey Road",5,69.0,5.0,-92.75,-92.75,40.4,4,0.8,4.02,69,Low Growth,Decreasing,Declining,Low Volume,41.17,26.31
+"Btp062 - Basava Mantapa, Dr. Rajkumar Road",5,78.5,71.5,-8.92,-8.92,80.4,76,1.06,16.04,70,Low Growth,Decreasing,Stable,Low Volume,33.04,26.24
+Btp018 - Dhobi Ghat Junction,5,88.5,69.5,-21.47,-21.47,73.0,50,0.72,12.32,71,Low Growth,Decreasing,Declining,Low Volume,35.33,26.13
+"Btp188 - 27Th Cross, 4Th Main, Jayanagar",5,27.0,50.5,87.04,87.04,39.8,89,1.76,11.09,72,Low Growth,Increasing,Growing,Low Volume,35.38,25.66
+Btp218 - Syndicate Bank Junction,5,52.0,91.5,75.96,75.96,69.4,93,1.02,17.48,73,Low Growth,Increasing,Growing,Low Volume,30.98,25.58
+Btp142 - Lower Agram Road Junction,5,5.0,2.5,-50.0,-50.0,6.6,2,0.8,0.48,74,Low Growth,Decreasing,Declining,Low Volume,42.16,25.49
+Btp136 - Hosur-Tavarkere Road Junction,5,76.5,48.5,-36.6,-36.6,69.0,43,0.89,11.32,75,Low Growth,Decreasing,Declining,Low Volume,34.24,25.07
+"Btp115 - Sahasra Hospital, Jayanagar",5,109.0,44.0,-59.63,-59.63,70.4,60,1.36,12.31,76,Low Growth,Decreasing,Declining,Low Volume,33.52,25.04
+Btp067 - Jai Muni Rao Circle,5,81.0,64.5,-20.37,-20.37,80.4,53,0.82,14.29,77,Low Growth,Decreasing,Declining,Low Volume,31.28,24.48
+"Btp163 - 16Th Main Road, Btm Layout",5,114.5,32.5,-71.62,-71.62,71.0,60,1.85,13.72,78,Low Growth,Decreasing,Declining,Low Volume,31.37,24.31
+Btp106 - Vv Puram College,5,8.0,69.0,500.0,762.5,31.6,76,1.1,16.25,79,Low Growth,Increasing,Rapid Growth,Low Volume,29.35,24.11
+Btp100 - Richmond Circle,5,109.0,17.0,-84.4,-84.4,60.6,12,0.71,6.92,80,Low Growth,Decreasing,Declining,Low Volume,35.49,24.06
+Btp078 - Nr Square Junction,5,47.0,50.0,6.38,6.38,48.2,31,0.62,8.03,81,Low Growth,Increasing,Stable,Low Volume,34.62,23.98
+Btp091 - Sirsi Circle,5,33.5,61.0,82.09,82.09,49.8,81,1.33,12.92,82,Low Growth,Increasing,Growing,Low Volume,30.34,23.37
+Btp143 - Asc Junction,4,4.5,7.0,55.56,55.56,5.75,12,1.71,1.1,83,Low Growth,Increasing,Growing,Low Volume,37.83,23.14
+"Btp168 - Msr Building, Jc Road",5,14.0,38.5,175.0,175.0,24.8,40,1.04,6.98,84,Low Growth,Increasing,Rapid Growth,Low Volume,33.37,22.81
+"Btp099 - Cash Pharmacy, Residency Road",5,109.5,18.5,-83.11,-83.11,67.8,7,0.38,6.81,85,Low Growth,Decreasing,Declining,Low Volume,33.33,22.72
+Btp126 - Dairy Circle,5,84.0,34.5,-58.93,-58.93,61.4,32,0.93,8.96,86,Low Growth,Decreasing,Declining,Low Volume,30.99,22.18
+Btp215 - Vanivillas Junction,5,101.5,50.5,-50.25,-50.25,69.8,40,0.79,10.46,87,Low Growth,Decreasing,Declining,Low Volume,29.38,21.81
+Btp219 - Canara Bank Junction,5,70.0,51.0,-27.14,-27.14,67.8,61,1.2,12.71,88,Low Growth,Decreasing,Declining,Low Volume,27.65,21.67
+Btp196 - Sarakki Main Road,5,49.5,15.0,-69.7,-69.7,27.6,12,0.8,2.87,89,Low Growth,Decreasing,Declining,Low Volume,34.1,21.61
+Btp122 - Siddapura Junction,5,31.5,21.0,-33.33,-33.33,26.8,23,1.1,3.89,90,Low Growth,Decreasing,Declining,Low Volume,33.23,21.49
+"Btp197 - 9Th Cross, 24Th Main, Jp Nagar",5,80.0,49.0,-38.75,-38.75,56.8,56,1.14,9.68,91,Low Growth,Decreasing,Declining,Low Volume,29.19,21.39
+Btp098 - Nayandahalli Junction,5,22.0,44.0,100.0,100.0,40.4,52,1.18,10.29,92,Low Growth,Increasing,Growing,Low Volume,28.42,21.17
+Btp105 - Shivasankara Circle,5,23.5,67.0,185.11,185.11,37.2,84,1.25,11.74,93,Low Growth,Increasing,Rapid Growth,Low Volume,27.43,21.15
+Btp155 - Katriguppe Junction,5,69.0,42.0,-39.13,-39.13,46.6,62,1.48,8.48,94,Low Growth,Decreasing,Declining,Low Volume,29.17,20.89
+Btp225 - Geetha Junction,5,57.0,47.0,-17.54,-17.54,56.4,56,1.19,10.55,95,Low Growth,Decreasing,Stable,Low Volume,27.16,20.52
+"Btp145 - Sri Hatti Maramma Circle, Domluru",5,41.0,31.0,-24.39,-24.39,34.0,42,1.35,5.9,96,Low Growth,Decreasing,Declining,Low Volume,30.14,20.44
+Btp203 - Rrmr Junction,5,15.5,40.5,161.29,161.29,25.8,23,0.57,6.38,97,Low Growth,Increasing,Rapid Growth,Low Volume,29.6,20.31
+Btp220 - Puttanna Junction,5,76.0,50.0,-34.21,-34.21,58.6,52,1.04,9.9,98,Low Growth,Decreasing,Declining,Low Volume,27.23,20.3
+Btp009 - Prakash Nagar Junction,5,90.5,5.0,-94.48,-94.48,48.8,4,0.8,5.09,99,Low Growth,Decreasing,Declining,Low Volume,30.07,20.08
+Btp120 - Lalbagh Main Gate Junction,5,78.5,25.5,-67.52,-67.52,47.0,19,0.75,5.67,100,Low Growth,Decreasing,Declining,Low Volume,29.06,19.7
+Btp085 - Briyand Circle,5,35.0,33.5,-4.29,-4.29,30.4,40,1.19,5.32,101,Low Growth,Decreasing,Stable,Low Volume,28.81,19.41
+Btp034 - Lrde Junction,5,57.0,30.5,-46.49,-46.49,41.4,41,1.34,6.8,102,Low Growth,Decreasing,Declining,Low Volume,27.77,19.38
+"Btp177 - Aurobindo Circle, Orr",5,35.5,45.5,28.17,28.17,35.6,66,1.45,7.74,103,Low Growth,Increasing,Growing,Low Volume,27.04,19.32
+Btp216 - Yediyur Junction,5,22.5,34.0,51.11,51.11,28.0,45,1.32,6.07,104,Low Growth,Increasing,Growing,Low Volume,28.15,19.32
+Btp214 - 5Th Main Chamrajpet  Junction,5,64.0,46.5,-27.34,-27.34,50.4,71,1.53,9.87,105,Low Growth,Decreasing,Declining,Low Volume,25.54,19.27
+"Btp176 - Rajalakshmi Kalyana Mantapa, Jp Nagar",5,48.5,26.0,-46.39,-46.39,37.8,32,1.23,5.85,106,Low Growth,Decreasing,Declining,Low Volume,27.84,19.04
+Btp092 - Bangalore Builders Junction,5,9.0,27.0,200.0,200.0,18.6,41,1.52,5.85,107,Low Growth,Increasing,Rapid Growth,Low Volume,27.8,19.02
+"Btp089 - Police Quarters, Sultan Road",5,17.0,16.5,-2.94,-2.94,14.8,29,1.76,2.72,108,Low Growth,Decreasing,Stable,Low Volume,29.82,18.98
+Btp133 - Adugodi Junction,5,4.5,26.5,488.89,488.89,12.8,40,1.51,6.36,109,Low Growth,Increasing,Rapid Growth,Low Volume,27.05,18.77
+"Btp015 - Suguna Hospital, Dr. Rajkumar Road",5,33.5,9.0,-73.13,-73.13,20.0,8,0.89,1.92,110,Low Growth,Decreasing,Declining,Low Volume,29.7,18.59
+Btp212 - Minto Junction,5,1.0,34.5,500.0,3350.0,15.0,32,0.93,7.17,111,Low Growth,Increasing,Rapid Growth,Low Volume,25.79,18.34
+Btp119 - Minerva Circle,5,49.0,33.5,-31.63,-31.63,39.2,28,0.84,5.68,112,Low Growth,Decreasing,Declining,Low Volume,26.77,18.33
+Btp064 - Devanga Hostel Junction,5,19.5,28.0,43.59,43.59,20.2,15,0.54,3.18,113,Low Growth,Increasing,Growing,Low Volume,28.04,18.1
+"Btp094 - Sri Skanda Complex, Mysore Road",5,15.0,27.5,83.33,83.33,22.2,27,0.98,4.7,114,Low Growth,Increasing,Growing,Low Volume,26.83,17.98
+Btp037 - Kr Circle,5,72.0,20.5,-71.53,-71.53,46.4,16,0.78,5.51,115,Low Growth,Decreasing,Declining,Low Volume,26.19,17.92
+Btp052 - Cid Carlton House Junction,5,58.5,12.0,-79.49,-79.49,38.8,22,1.83,6.42,116,Low Growth,Decreasing,Declining,Low Volume,25.29,17.74
+"Btp093 - Toll Gate, Mysore Road",5,11.0,25.5,131.82,131.82,14.8,30,1.18,3.59,117,Low Growth,Increasing,Rapid Growth,Low Volume,27.18,17.74
+Btp193 - Vasavi Circle,5,10.0,35.5,255.0,255.0,21.6,44,1.24,7.38,118,Low Growth,Increasing,Rapid Growth,Low Volume,24.4,17.59
+"Btp202 - East End Main Road, Jayanagar",5,20.0,6.5,-67.5,-67.5,23.8,6,0.92,2.54,119,Low Growth,Decreasing,Declining,Low Volume,27.52,17.53
+Btp184 - Lalbagh West Gate,5,61.0,18.0,-70.49,-70.49,33.2,35,1.94,5.75,120,Low Growth,Decreasing,Declining,Low Volume,25.18,17.41
+"Btp191 - 40Th Cross, 4Th Main, Jayanagar",5,18.5,22.5,21.62,21.62,20.8,27,1.2,3.74,121,Low Growth,Increasing,Growing,Low Volume,26.4,17.34
+Btp075 - Police Corner,5,45.5,22.0,-51.65,-51.65,36.8,19,0.86,4.76,122,Low Growth,Decreasing,Declining,Low Volume,25.35,17.11
+"Btp179 - 9Th Block, 28Th Main, Jayanagar",5,20.0,2.0,-90.0,-90.0,19.4,1,0.5,1.19,123,Low Growth,Decreasing,Declining,Low Volume,27.53,16.99
+Btp171 - Indian Express (Balekundri),5,10.0,27.0,170.0,170.0,21.6,28,1.04,5.88,124,Low Growth,Increasing,Rapid Growth,Low Volume,24.31,16.94
+Btp107 - National College Junction,5,3.0,31.5,500.0,950.0,14.0,13,0.41,6.25,125,Low Growth,Increasing,Rapid Growth,Low Volume,23.93,16.86
+Btp138 - Sarjapur Road Check Post,5,4.5,19.5,333.33,333.33,13.8,19,0.97,5.02,126,Low Growth,Increasing,Rapid Growth,Low Volume,24.37,16.63
+Btp146 - Domlur Water Tank,5,27.0,27.0,0.0,0.0,28.8,36,1.33,5.28,127,Low Growth,Decreasing,Stable,Low Volume,24.13,16.59
+Btp047 - Vidhan Soudha Metro Station,5,51.0,11.5,-77.45,-77.45,36.4,2,0.17,2.62,128,Low Growth,Decreasing,Declining,Low Volume,25.86,16.56
+Btp173 - Tmc,5,38.5,23.0,-40.26,-40.26,29.6,28,1.22,4.45,129,Low Growth,Decreasing,Declining,Low Volume,24.34,16.38
+"Btp127 - Sagar Hospital, Jayanagar",5,7.5,22.0,193.33,193.33,14.8,11,0.5,3.64,130,Low Growth,Increasing,Rapid Growth,Low Volume,24.48,16.14
+"Btp113 - 27Th Cross, Pai Vista, Kr Road",5,38.0,18.5,-51.32,-51.32,24.4,21,1.14,3.22,131,Low Growth,Decreasing,Declining,Low Volume,23.95,15.66
+"Btp221 - 15Th Cross, 24Th Main, Jp Nagar",5,16.0,18.5,15.62,15.62,22.8,34,1.84,4.88,132,Low Growth,Increasing,Stable,Low Volume,22.77,15.61
+"Btp102 - Bmtc Junction, Kh Road",5,48.5,20.0,-58.76,-58.76,32.8,17,0.85,3.94,133,Low Growth,Decreasing,Declining,Low Volume,23.3,15.56
+Btp079 - Town Hall Junction,5,31.5,37.0,17.46,17.46,32.4,24,0.65,5.24,134,Low Growth,Increasing,Stable,Low Volume,22.17,15.4
+Btp166 - Coffee Board Junction,5,27.0,22.0,-18.52,-18.52,22.4,26,1.18,3.45,135,Low Growth,Decreasing,Stable,Low Volume,23.35,15.39
+Btp185 - Rv Teachers College,5,20.5,6.0,-70.73,-70.73,11.2,11,1.83,1.48,136,Low Growth,Decreasing,Declining,Low Volume,24.13,15.07
+Btp103 - Shanti Nagar Ttmc,5,28.0,25.5,-8.93,-8.93,27.2,19,0.75,3.88,137,Low Growth,Decreasing,Stable,Low Volume,21.86,14.67
+Btp030 - Mekhri Circle,5,18.0,11.5,-36.11,-36.11,12.4,17,1.48,1.73,138,Low Growth,Decreasing,Declining,Low Volume,23.05,14.52
+"Btp190 - 36Th Cross, 4Th Main, Jayanagar",5,44.5,23.5,-47.19,-47.19,28.6,31,1.32,4.3,139,Low Growth,Decreasing,Declining,Low Volume,21.16,14.42
+Btp077 - Halasuru Gate Junction,5,3.5,4.5,28.57,28.57,5.8,3,0.67,0.67,140,Low Growth,Increasing,Growing,Low Volume,23.11,14.13
+Btp121 - Kh Circle,5,29.5,6.5,-77.97,-77.97,20.8,7,1.08,2.17,141,Low Growth,Decreasing,Declining,Low Volume,21.61,13.83
+"Btp200 - 15Th Cross, 33Rd Main, Jp Nagar",5,4.0,8.5,112.5,112.5,5.4,7,0.82,0.96,142,Low Growth,Increasing,Rapid Growth,Low Volume,22.2,13.7
+Btp217 - Baleyele Junction,5,6.0,32.0,433.33,433.33,16.0,46,1.44,7.41,143,Low Growth,Increasing,Rapid Growth,Low Volume,17.79,13.64
+Btp128 - Gorappanapalya Junction,4,8.5,18.5,117.65,117.65,13.5,33,1.78,3.55,144,Low Growth,Increasing,Rapid Growth,Low Volume,20.3,13.6
+"Btp159 - Jp Nagar Metro, Orr",5,23.5,22.5,-4.26,-4.26,19.0,35,1.56,3.41,145,Low Growth,Decreasing,Stable,Low Volume,20.09,13.42
+Btp222 - Delmia Circle,5,26.5,13.0,-50.94,-50.94,19.4,21,1.62,2.93,146,Low Growth,Decreasing,Declining,Low Volume,19.73,13.01
+Btp036 - Police Thimmaiah Circle (Gpo),5,25.0,5.0,-80.0,-80.0,16.6,2,0.4,0.96,147,Low Growth,Decreasing,Declining,Low Volume,20.28,12.55
+"Btp164 - 29Th Main Road, Btm Layout",4,2.0,14.0,500.0,600.0,8.0,25,1.79,4.04,148,Low Growth,Increasing,Rapid Growth,Low Volume,17.46,12.09
+"Btp114 - Kr Road Junction, Near Jss",4,10.0,21.5,115.0,115.0,15.75,7,0.33,2.92,149,Low Growth,Increasing,Rapid Growth,Low Volume,17.85,11.88
+Btp141 - Palmgroove Junction,5,13.5,5.5,-59.26,-59.26,10.0,1,0.18,0.44,150,Low Growth,Decreasing,Declining,Low Volume,19.22,11.71
+Btp187 - South End Circle,5,8.5,8.5,0.0,0.0,9.6,12,1.41,1.46,151,Low Growth,Decreasing,Stable,Low Volume,18.15,11.47
+Btp134 - Mico Bande,5,14.0,8.5,-39.29,-39.29,9.8,13,1.53,1.3,152,Low Growth,Decreasing,Declining,Low Volume,17.25,10.87
+Btp035 - Basaweshwara Circle (Lh) Junction,5,10.5,2.5,-76.19,-76.19,7.0,2,0.8,0.4,153,Low Growth,Decreasing,Declining,Low Volume,17.73,10.8
+Btp158 - Devegowda Petrol Bunk,5,1.5,12.5,500.0,733.33,7.6,14,1.12,3.54,154,Low Growth,Increasing,Rapid Growth,Low Volume,14.89,10.35
+Btp053 - Three Let Junction,4,23.0,2.5,-89.13,-89.13,12.75,3,1.2,1.12,155,Low Growth,Decreasing,Declining,Low Volume,16.32,10.24
+Btp006 - Navarang Bar Junction,5,7.5,6.0,-20.0,-20.0,6.8,1,0.17,0.4,156,Low Growth,Decreasing,Declining,Low Volume,14.03,8.58
+"Btp025 - Puttamma Choultry, Nagarbhavi",5,5.5,2.5,-54.55,-54.55,5.2,3,1.2,0.45,157,Low Growth,Decreasing,Declining,Low Volume,12.71,7.81
+Btp213 - Royan Circle,4,6.5,4.0,-38.46,-38.46,5.25,2,0.5,0.3,158,Low Growth,Decreasing,Declining,Low Volume,12.01,7.33

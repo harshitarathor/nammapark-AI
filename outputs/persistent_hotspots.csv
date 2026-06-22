@@ -1,0 +1,21 @@
+,months_in_top15,months_observed,persistence_pct,is_persistent_hotspot
+Btp044 - Sagar Theatre Junction,5,5,100.0,True
+Btp058 - Subbanna Junction,5,5,100.0,True
+Btp027 - Modi Bridge Junction,5,5,100.0,True
+Btp051 - Safina Plaza Junction,5,5,100.0,True
+Btp040 - Elite Junction,5,5,100.0,True
+Btp211 - Central Street Junction,5,5,100.0,True
+Btp082 - Kr Market Junction,5,5,100.0,True
+"Btp080 - Nr Road, Sp Road Junction",5,5,100.0,True
+Btp020 - Hosahalli Metro Station,5,5,100.0,True
+Btp057 - Anand Rao Junction,5,5,100.0,True
+Btp045 - Danvanthri Road Junction,4,5,80.0,True
+"Btp083 - As Char Street, Mysore Road",4,5,80.0,True
+"Btp016 - 5Th Main Road, Rpc Layout",3,5,60.0,False
+Btp032 - Windsor Circle,3,5,60.0,False
+"Btp001 - 10Th Cross, Dr. Rajkumar Road",3,5,60.0,False
+Btp108 - Tagore Park Junction,2,5,40.0,False
+Btp042 - Minsk Square Junction (Cto),2,5,40.0,False
+"Btp070 - Cholurpalya Junction, Magadi Road",2,5,40.0,False
+Btp023 - Mahalaxmi Layout Entrance,1,5,20.0,False
+Btp038 - Mysore Bank Junction,1,5,20.0,False

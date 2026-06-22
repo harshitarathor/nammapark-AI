@@ -1,0 +1,169 @@
+junction_name,violation_count,pct_contribution,z_score
+Btp051 - Safina Plaza Junction,15449,10.26,7.2
+Btp082 - Kr Market Junction,11538,7.66,5.26
+Btp040 - Elite Junction,10718,7.12,4.86
+Btp044 - Sagar Theatre Junction,10549,7.01,4.77
+Btp211 - Central Street Junction,5388,3.58,2.22
+Btp058 - Subbanna Junction,5189,3.45,2.12
+Btp027 - Modi Bridge Junction,4584,3.04,1.82
+Btp020 - Hosahalli Metro Station,4101,2.72,1.58
+Btp057 - Anand Rao Junction,3935,2.61,1.5
+"Btp080 - Nr Road, Sp Road Junction",3681,2.44,1.38
+Btp045 - Danvanthri Road Junction,3181,2.11,1.13
+"Btp001 - 10Th Cross, Dr. Rajkumar Road",2812,1.87,0.95
+"Btp083 - As Char Street, Mysore Road",2778,1.85,0.93
+Btp032 - Windsor Circle,2749,1.83,0.92
+"Btp016 - 5Th Main Road, Rpc Layout",2474,1.64,0.78
+"Btp070 - Cholurpalya Junction, Magadi Road",2272,1.51,0.68
+Btp042 - Minsk Square Junction (Cto),2044,1.36,0.57
+Btp038 - Mysore Bank Junction,2021,1.34,0.56
+Btp023 - Mahalaxmi Layout Entrance,1807,1.2,0.45
+Btp108 - Tagore Park Junction,1801,1.2,0.45
+Btp043 - Upparpet Junction,1786,1.19,0.44
+Btp048 - Shanthala Junction,1593,1.06,0.34
+Btp104 - Medical College Circle,1508,1.0,0.3
+"Btp182 - 19Th Main Junction, Rajajinagar",1390,0.92,0.24
+"Btp011 - Rr Kalyana Mantapa, Dr. Rajkumar Road",1208,0.8,0.15
+Btp008 - Navarang Theatre,1190,0.79,0.15
+"Btp022 - Marenahalli Junction, Vijayanagar",1157,0.77,0.13
+Btp135 - Uco Bank Junction,1112,0.74,0.11
+"Btp026 - 1St Block Junction, Rajajinagar",1086,0.72,0.09
+Btp069 - Mc Circle,1075,0.71,0.09
+Btp063 - Siddalingaiah Circle,1060,0.7,0.08
+Btp074 - Leprosy Hospital Junction,1047,0.7,0.07
+Btp205 - Modi Hospital Junction,1045,0.69,0.07
+Btp061 - Bhashyam Circle,1030,0.68,0.07
+Btp096 - Gali Anjaneya Temple,972,0.65,0.04
+Btp010 - Rajajinagar Entrance,957,0.64,0.03
+Btp208 - Havanur Circle,812,0.54,-0.04
+Btp172 - Nanjappa Circle,776,0.52,-0.06
+"Btp095 - Satellite Bus Stand, Mysore Road",775,0.51,-0.06
+Btp028 - Vijayanagar Bus Stand Junction,754,0.5,-0.07
+Btp054 - Shivananda Circle,751,0.5,-0.07
+"Btp148 - 17Th Main, Doopanahalli Bus Stop",745,0.49,-0.07
+Btp071 - Prasanna Junction,721,0.48,-0.09
+"Btp206 - Shankara Mutt Circle, Vijayanagar",719,0.48,-0.09
+Btp118 - Basappa Circle,653,0.43,-0.12
+"Btp204 - Esi Hospital, Rajajinagar",638,0.42,-0.13
+"Btp024 - Nps, Vijayanagar",632,0.42,-0.13
+Btp130 - Gd Mara Junction,631,0.42,-0.13
+Btp192 - Urvashi Theater,625,0.42,-0.13
+"Btp189 - New Diagonal Road, Jayanagar",602,0.4,-0.15
+Btp137 - Madiwala Traffic Ps Junction,596,0.4,-0.15
+"Btp170 - Dr. Bheem Rao Palace, Chord Road",573,0.38,-0.16
+"Btp186 - 9Th Cross, 4Th Main, Jayanagar",546,0.36,-0.17
+"Btp123 - 10Th Cross, Wilson Garden",535,0.36,-0.18
+Btp068 - Veeresh Theatre Junction,504,0.33,-0.19
+"Btp226 - 33Rd Cross, 11Th Main, Jayanagar",492,0.33,-0.2
+"Btp210 - 50Th Cross, 12Th Main , Rajajinagar",455,0.3,-0.22
+Btp076 - Hudson Circle,455,0.3,-0.22
+Btp215 - Vanivillas Junction,434,0.29,-0.23
+"Btp062 - Basava Mantapa, Dr. Rajkumar Road",425,0.28,-0.23
+Btp017 - Attiguppe Circle,422,0.28,-0.23
+"Btp101 - Blood Bank Circle, Kh Road",410,0.27,-0.24
+Btp067 - Jai Muni Rao Circle,409,0.27,-0.24
+Btp018 - Dhobi Ghat Junction,382,0.25,-0.25
+Btp041 - Gopal Gowda Circle,378,0.25,-0.26
+Btp167 - Jc Road Junction,372,0.25,-0.26
+Btp140 - Madiwala Check Post,368,0.24,-0.26
+"Btp163 - 16Th Main Road, Btm Layout",364,0.24,-0.26
+"Btp115 - Sahasra Hospital, Jayanagar",362,0.24,-0.26
+Btp136 - Hosur-Tavarkere Road Junction,360,0.24,-0.27
+Btp219 - Canara Bank Junction,358,0.24,-0.27
+Btp218 - Syndicate Bank Junction,351,0.23,-0.27
+"Btp099 - Cash Pharmacy, Residency Road",349,0.23,-0.27
+Btp155 - Katriguppe Junction,339,0.23,-0.28
+Btp126 - Dairy Circle,334,0.22,-0.28
+Btp109 - Dewan Madhava Rao Junction,309,0.21,-0.29
+"Btp117 - 9Th Cross, Kanakapura Road",307,0.2,-0.29
+Btp100 - Richmond Circle,304,0.2,-0.29
+Btp220 - Puttanna Junction,294,0.2,-0.3
+"Btp188 - 27Th Cross, 4Th Main, Jayanagar",294,0.2,-0.3
+Btp225 - Geetha Junction,287,0.19,-0.3
+"Btp197 - 9Th Cross, 24Th Main, Jp Nagar",284,0.19,-0.3
+Btp091 - Sirsi Circle,263,0.17,-0.31
+Btp009 - Prakash Nagar Junction,262,0.17,-0.31
+Btp180 - Swagath Poornima Theatre,261,0.17,-0.31
+Btp214 - 5Th Main Chamrajpet  Junction,252,0.17,-0.32
+Btp078 - Nr Square Junction,244,0.16,-0.32
+Btp120 - Lalbagh Main Gate Junction,244,0.16,-0.32
+Btp037 - Kr Circle,239,0.16,-0.32
+Btp034 - Lrde Junction,217,0.14,-0.34
+Btp184 - Lalbagh West Gate,215,0.14,-0.34
+Btp207 - 8Th Main Road Basaveshwara Nagar,213,0.14,-0.34
+"Btp033 - Sophia High School, Sankey Road",208,0.14,-0.34
+Btp098 - Nayandahalli Junction,206,0.14,-0.34
+Btp047 - Vidhan Soudha Metro Station,200,0.13,-0.34
+Btp119 - Minerva Circle,199,0.13,-0.34
+Btp052 - Cid Carlton House Junction,198,0.13,-0.35
+"Btp176 - Rajalakshmi Kalyana Mantapa, Jp Nagar",196,0.13,-0.35
+Btp075 - Police Corner,188,0.12,-0.35
+"Btp177 - Aurobindo Circle, Orr",186,0.12,-0.35
+Btp105 - Shivasankara Circle,186,0.12,-0.35
+"Btp102 - Bmtc Junction, Kh Road",175,0.12,-0.36
+"Btp145 - Sri Hatti Maramma Circle, Domluru",175,0.12,-0.36
+Btp216 - Yediyur Junction,172,0.11,-0.36
+Btp085 - Briyand Circle,166,0.11,-0.36
+Btp079 - Town Hall Junction,162,0.11,-0.36
+Btp106 - Vv Puram College,159,0.11,-0.36
+Btp132 - Anepalya Junction,158,0.1,-0.37
+Btp173 - Tmc,152,0.1,-0.37
+Btp122 - Siddapura Junction,146,0.1,-0.37
+Btp146 - Domlur Water Tank,146,0.1,-0.37
+"Btp190 - 36Th Cross, 4Th Main, Jayanagar",145,0.1,-0.37
+Btp103 - Shanti Nagar Ttmc,144,0.1,-0.37
+"Btp202 - East End Main Road, Jayanagar",142,0.09,-0.37
+Btp196 - Sarakki Main Road,138,0.09,-0.37
+"Btp168 - Msr Building, Jc Road",132,0.09,-0.38
+Btp203 - Rrmr Junction,130,0.09,-0.38
+"Btp113 - 27Th Cross, Pai Vista, Kr Road",128,0.09,-0.38
+Btp166 - Coffee Board Junction,121,0.08,-0.38
+"Btp221 - 15Th Cross, 24Th Main, Jp Nagar",116,0.08,-0.39
+Btp171 - Indian Express (Balekundri),114,0.08,-0.39
+Btp193 - Vasavi Circle,113,0.08,-0.39
+"Btp094 - Sri Skanda Complex, Mysore Road",112,0.07,-0.39
+"Btp179 - 9Th Block, 28Th Main, Jayanagar",110,0.07,-0.39
+Btp121 - Kh Circle,107,0.07,-0.39
+"Btp191 - 40Th Cross, 4Th Main, Jayanagar",105,0.07,-0.39
+Btp064 - Devanga Hostel Junction,104,0.07,-0.39
+"Btp015 - Suguna Hospital, Dr. Rajkumar Road",103,0.07,-0.39
+"Btp159 - Jp Nagar Metro, Orr",101,0.07,-0.39
+Btp222 - Delmia Circle,98,0.07,-0.39
+Btp092 - Bangalore Builders Junction,96,0.06,-0.4
+"Btp093 - Toll Gate, Mysore Road",90,0.06,-0.4
+Btp030 - Mekhri Circle,87,0.06,-0.4
+"Btp089 - Police Quarters, Sultan Road",87,0.06,-0.4
+Btp217 - Baleyele Junction,85,0.06,-0.4
+Btp036 - Police Thimmaiah Circle (Gpo),83,0.06,-0.4
+"Btp127 - Sagar Hospital, Jayanagar",83,0.06,-0.4
+Btp212 - Minto Junction,78,0.05,-0.4
+Btp138 - Sarjapur Road Check Post,75,0.05,-0.41
+Btp133 - Adugodi Junction,73,0.05,-0.41
+Btp107 - National College Junction,73,0.05,-0.41
+"Btp114 - Kr Road Junction, Near Jss",64,0.04,-0.41
+Btp185 - Rv Teachers College,57,0.04,-0.41
+Btp187 - South End Circle,56,0.04,-0.42
+Btp128 - Gorappanapalya Junction,55,0.04,-0.42
+Btp053 - Three Let Junction,51,0.03,-0.42
+Btp141 - Palmgroove Junction,50,0.03,-0.42
+Btp134 - Mico Bande,49,0.03,-0.42
+Btp006 - Navarang Bar Junction,47,0.03,-0.42
+Btp158 - Devegowda Petrol Bunk,45,0.03,-0.42
+"Btp164 - 29Th Main Road, Btm Layout",42,0.03,-0.42
+Btp035 - Basaweshwara Circle (Lh) Junction,36,0.02,-0.43
+Btp142 - Lower Agram Road Junction,33,0.02,-0.43
+Btp077 - Halasuru Gate Junction,30,0.02,-0.43
+"Btp200 - 15Th Cross, 33Rd Main, Jp Nagar",28,0.02,-0.43
+"Btp025 - Puttamma Choultry, Nagarbhavi",27,0.02,-0.43
+Btp143 - Asc Junction,24,0.02,-0.43
+"Btp161 - 15Th Cross, 35Th Main, Jp Nagar",23,0.02,-0.43
+Btp213 - Royan Circle,21,0.01,-0.43
+Btp157 - Kadirenahalli Cross,16,0.01,-0.44
+"Btp198 - 9Th Cross, 8Th Main, Jp Nagar",14,0.01,-0.44
+Btp156 - Kamakya Junction,13,0.01,-0.44
+Btp154 - Itmadu Junction,12,0.01,-0.44
+"Btp112 - 14Th Cross, Kr Road",10,0.01,-0.44
+Btp181 - Bileka Halli Junction,8,0.01,-0.44
+"Btp110 - Bharathi Nursing Home, Basavanagudi",7,0.0,-0.44
+"Btp178 - 18Th Main, Marenahalli",7,0.0,-0.44
+Btp144 - Commando Hospital Junction,6,0.0,-0.44

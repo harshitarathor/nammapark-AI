@@ -1,0 +1,241 @@
+junction_name,total_violations,unique_vehicles,peak_violations,avg_latitude,avg_longitude,weighted_violation_score,peak_hour_ratio,repeat_rate,unique_violation_types,unique_vehicle_types,violations_per_vehicle,severity_raw,severity_score,behavioral_score,density_score,IPII,risk_category,risk_rank,top_contributing_factor,top_factor_share_pct,risk_explanation,trend_category,trend_strength,growth_rate_percent,emerging_score,action_category,recommended_action,enforcement_priority,priority_rank,priority_level,deployment_plan,resource_allocation
+Btp042 - Minsk Square Junction (Cto),2044,1041,37,12.981175736986302,77.59845689202544,3250,0.0181017612524461,0.4907045009784735,18,11,1.9634966378482228,8.086717920303906,0.7317632743911014,0.5144814090019569,1.0,72.02,Critical,1,Severity (violation volume/weight),50.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Stable,-5.35,29.35,Immediate Action,Deploy enforcement team and increase patrol frequency,82.02,1,P1 - Immediate,Dedicated enforcement unit,2 Patrol Teams + ANPR Camera
+Btp020 - Hosahalli Metro Station,4101,2332,129,12.97414419858571,77.54529421309437,6432,0.0314557425018288,0.4313582053157766,22,15,1.7585763293310464,8.769196271411001,0.8195516664455018,0.4646940913421647,0.7873160108012156,70.66,Critical,2,Severity (violation volume/weight),58.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Declining,-36.75,30.17,Immediate Action,Deploy enforcement team and increase patrol frequency,81.05,2,P1 - Immediate,Dedicated enforcement unit,2 Patrol Teams + ANPR Camera
+Btp032 - Windsor Circle,2749,1521,216,12.99308791268715,77.58818366254266,4138,0.0785740269188795,0.4467078937795562,44,13,1.8073635765943457,8.328209491748732,0.762826760459841,0.5180291791051002,0.8379516283496649,70.44,Critical,3,Severity (violation volume/weight),54.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Declining,-77.63,23.72,Immediate Action,Deploy enforcement team and increase patrol frequency,79.91,3,P1 - Immediate,Dedicated enforcement unit,2 Patrol Teams + ANPR Camera
+Btp051 - Safina Plaza Junction,15449,11260,1156,12.981212065557246,77.60869513989651,26160,0.0748268496342805,0.2711502362612467,75,18,1.3720248667850798,10.172025031140222,1.0,0.3361481611221742,0.386119527740048,67.81,High,5,Severity (violation volume/weight),73.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Emerging,Stable,-3.68,61.36,Regular Enforcement,Regular enforcement patrols,73.45,4,P1 - Immediate,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+Btp082 - Kr Market Junction,11538,9667,3888,12.964423750642322,77.57724121294086,15191,0.3369734789391576,0.1621598197261223,45,18,1.1935450501706837,9.628524252492122,0.9300885378115912,0.4348104239889103,0.2008777639358741,63.57,High,6,Severity (violation volume/weight),73.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Emerging,Growing,60.17,62.14,Preventive Action,Target repeat offenders and increase inspections,73.19,5,P1 - Immediate,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+Btp130 - Gd Mara Junction,631,507,5,12.908069876703646,77.60081684453249,1362,0.0079239302694136,0.196513470681458,16,9,1.244575936883629,7.217443431696533,0.6199469662474641,0.2065752030754014,0.2538420242231883,42.27,Moderate,39,Severity (violation volume/weight),73.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Emerging,Rapid Growth,500.0,58.59,Emerging Hotspot,Monitor weekly and deploy preventive enforcement,72.6,6,P1 - Immediate,Preventive hotspot monitoring,2 Patrol Teams + ANPR Camera
+Btp058 - Subbanna Junction,5189,3826,2193,12.979021616597574,77.57866101486218,8972,0.4226247831952207,0.2626710348814801,24,20,1.3562467328802927,9.101975347298058,0.8623576249555172,0.6057466836338163,0.3697436180741623,68.69,High,4,Severity (violation volume/weight),62.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Declining,-28.79,34.68,Regular Enforcement,Regular enforcement patrols,70.15,7,P1 - Immediate,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+Btp044 - Sagar Theatre Junction,10549,8189,999,12.974938996857006,77.57889570478889,17819,0.0947009195184377,0.2237178879514646,31,20,1.2881914763707412,9.7880767010248,0.9506120502164972,0.3037165496590142,0.2991099969112079,62.62,High,8,Severity (violation volume/weight),75.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Stable,-2.97,49.37,Regular Enforcement,Regular enforcement patrols,67.5,8,P1 - Immediate,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+Btp040 - Elite Junction,10718,8450,1229,12.976596713370032,77.5766021547117,17378,0.1146669154693039,0.2116066430304161,30,20,1.2684023668639053,9.763017859764734,0.9473886873400056,0.3073486761212908,0.2785711504539635,62.16,High,9,Severity (violation volume/weight),76.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Stable,-13.64,49.47,Regular Enforcement,Regular enforcement patrols,67.15,9,P1 - Immediate,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+"Btp011 - Rr Kalyana Mantapa, Dr. Rajkumar Road",1208,738,271,12.99369499669634,77.55379199356938,1703,0.2243377483443708,0.3890728476821192,20,16,1.6368563685636857,7.440733707389261,0.6486691875936066,0.5759133196437178,0.6609845260965073,62.93,High,7,Severity (violation volume/weight),51.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Growing,27.35,27.66,Preventive Action,Target repeat offenders and increase inspections,65.86,10,P1 - Immediate,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+Btp109 - Dewan Madhava Rao Junction,309,243,8,12.940864320388348,77.57243474530745,477,0.0258899676375404,0.2135922330097087,4,8,1.271604938271605,6.169610732491456,0.4851624010579361,0.2383503212046707,0.2818950555740188,37.05,Moderate,62,Severity (violation volume/weight),65.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Rapid Growth,500.0,28.08,Preventive Action,Increase inspections and awareness campaigns,63.85,11,P2 - High,Preventive hotspot monitoring,2 Patrol Teams + ANPR Camera
+Btp027 - Modi Bridge Junction,4584,3346,245,12.998897494610553,77.54941567682627,6666,0.0534467713787085,0.2700698080279232,23,15,1.369994022713688,8.80492526261806,0.8241475494983567,0.3179432035481687,0.3840117424176961,58.43,High,10,Severity (violation volume/weight),70.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Declining,-25.95,32.95,Regular Enforcement,Regular enforcement patrols,61.69,12,P2 - High,Enhanced patrol coverage,2 Patrol Teams + ANPR Camera
+Btp211 - Central Street Junction,5388,4590,669,12.983371022821446,77.60345435130863,9378,0.1241648106904231,0.1481069042316258,54,19,1.1738562091503268,9.14622842650894,0.8680499764580626,0.250244367121353,0.1804429847711767,54.52,High,14,Severity (violation volume/weight),79.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Stable,8.8,39.39,Regular Enforcement,Regular enforcement patrols,59.96,13,P2 - High,Enhanced patrol coverage,1 Patrol Team + Mobile Camera
+"Btp083 - As Char Street, Mysore Road",2778,2409,794,12.966450044406306,77.57440287238298,6218,0.2858171346292296,0.132829373650108,41,15,1.153175591531756,8.735364401103888,0.8151998133945786,0.3639992908244309,0.1589788542218924,54.86,High,12,Severity (violation volume/weight),74.3,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Stable,18.55,33.19,Regular Enforcement,Regular enforcement patrols,59.79,14,P2 - High,Enhanced patrol coverage,1 Patrol Team + Mobile Camera
+"Btp170 - Dr. Bheem Rao Palace, Chord Road",573,372,79,12.99037199306623,77.551225814101,1059,0.137870855148342,0.3507853403141361,11,15,1.5403225806451613,6.966024187106113,0.5876064661007254,0.467727010939259,0.5607934261730936,54.63,High,13,Severity (violation volume/weight),53.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Growing,39.57,23.05,Preventive Action,Target repeat offenders and increase inspections,59.14,15,P2 - High,Enhanced patrol coverage,1 Patrol Team + Mobile Camera
+Btp172 - Nanjappa Circle,776,480,21,12.961702129381443,77.59948909484535,1547,0.027061855670103,0.3814432989690721,6,11,1.6166666666666667,7.344719054149673,0.6363186536786611,0.4103185289492346,0.6400299102691925,56.93,High,11,Severity (violation volume/weight),55.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Stable,-4.01,23.28,Regular Enforcement,Regular enforcement patrols,59.04,16,P2 - High,Enhanced patrol coverage,1 Patrol Team + Mobile Camera
+Btp057 - Anand Rao Junction,3935,3352,821,12.979395373087677,77.57438830726811,5930,0.2086404066073697,0.1481575603557814,37,18,1.1739260143198091,8.687948111838727,0.8091005726127686,0.3178764595666621,0.1805154346031119,53.6,High,15,Severity (violation volume/weight),75.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Declining,-37.04,32.02,Regular Enforcement,Regular enforcement patrols,57.68,17,P2 - High,Enhanced patrol coverage,1 Patrol Team + Mobile Camera
+Btp137 - Madiwala Traffic Ps Junction,596,516,232,12.92332618796038,77.6198709011831,1336,0.3892617449664429,0.1342281879194631,17,19,1.1550387596899223,7.198183577101943,0.6174695372369793,0.4481802913407428,0.1609126110041965,47.54,Moderate,21,Severity (violation volume/weight),64.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Stable,Rapid Growth,151.38,32.07,Preventive Action,Increase inspections and awareness campaigns,55.41,18,P2 - High,Preventive hotspot monitoring,1 Patrol Team + Mobile Camera
+Btp133 - Adugodi Junction,73,61,8,12.941853575342464,77.6086067250685,210,0.1095890410958904,0.1643835616438356,10,9,1.1967213114754098,5.351858133476067,0.3799734442955514,0.2551687403542796,0.2041743621594234,30.74,Moderate,98,Severity (violation volume/weight),61.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Rapid Growth,488.89,6.36,Preventive Action,Increase inspections and awareness campaigns,54.99,19,P2 - High,Preventive hotspot monitoring,1 Patrol Team + Mobile Camera
+"Btp101 - Blood Bank Circle, Kh Road",410,254,2,12.961947537560976,77.59617864317073,749,0.0048780487804878,0.3804878048780488,6,9,1.6141732283464567,6.620073206530356,0.5431061822966711,0.3915978892590522,0.6374420046945778,51.65,High,16,Severity (violation volume/weight),52.6,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score).",Low Growth,Declining,-90.33,8.99,Regular Enforcement,Regular enforcement patrols,52.67,20,P2 - High,Enhanced patrol coverage,1 Patrol Team + Mobile Camera

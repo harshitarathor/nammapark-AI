@@ -1,0 +1,121 @@
+junction_name,total_violations,unique_vehicles,peak_violations,avg_latitude,avg_longitude,weighted_violation_score,peak_hour_ratio,repeat_rate,unique_violation_types,unique_vehicle_types,violations_per_vehicle,severity_raw,severity_score,behavioral_score,density_score,IPII,risk_category,risk_rank,top_contributing_factor,top_factor_share_pct,risk_explanation
+Btp042 - Minsk Square Junction (Cto),2044,1041,37,12.981175736986302,77.59845689202544,3250,0.0181017612524461,0.4907045009784735,18,11,1.9634966378482228,8.086717920303906,0.7317632743911014,0.5144814090019569,1.0,72.02,Critical,1,Severity (violation volume/weight),50.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp020 - Hosahalli Metro Station,4101,2332,129,12.97414419858571,77.54529421309437,6432,0.0314557425018288,0.4313582053157766,22,15,1.7585763293310464,8.769196271411001,0.8195516664455018,0.4646940913421647,0.7873160108012156,70.66,Critical,2,Severity (violation volume/weight),58.0,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp032 - Windsor Circle,2749,1521,216,12.99308791268715,77.58818366254266,4138,0.0785740269188795,0.4467078937795562,44,13,1.8073635765943457,8.328209491748732,0.762826760459841,0.5180291791051002,0.8379516283496649,70.44,Critical,3,Severity (violation volume/weight),54.1,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp058 - Subbanna Junction,5189,3826,2193,12.979021616597574,77.57866101486218,8972,0.4226247831952207,0.2626710348814801,24,20,1.3562467328802927,9.101975347298058,0.8623576249555172,0.6057466836338163,0.3697436180741623,68.69,High,4,Severity (violation volume/weight),62.8,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp051 - Safina Plaza Junction,15449,11260,1156,12.981212065557246,77.60869513989651,26160,0.0748268496342805,0.2711502362612467,75,18,1.3720248667850798,10.172025031140222,1.0,0.33614816112217427,0.386119527740048,67.81,High,5,Severity (violation volume/weight),73.7,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp082 - Kr Market Junction,11538,9667,3888,12.964423750642322,77.57724121294086,15191,0.3369734789391576,0.1621598197261223,45,18,1.1935450501706837,9.628524252492122,0.9300885378115912,0.43481042398891034,0.20087776393587412,63.57,High,6,Severity (violation volume/weight),73.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+"Btp011 - Rr Kalyana Mantapa, Dr. Rajkumar Road",1208,738,271,12.99369499669634,77.55379199356938,1703,0.2243377483443708,0.3890728476821192,20,16,1.6368563685636857,7.440733707389261,0.6486691875936066,0.5759133196437178,0.6609845260965073,62.93,High,7,Severity (violation volume/weight),51.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp044 - Sagar Theatre Junction,10549,8189,999,12.974938996857006,77.57889570478889,17819,0.0947009195184377,0.2237178879514646,31,20,1.2881914763707412,9.788076701024801,0.9506120502164973,0.30371654965901423,0.29910999691120793,62.62,High,8,Severity (violation volume/weight),75.9,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp040 - Elite Junction,10718,8450,1229,12.976596713370032,77.5766021547117,17378,0.1146669154693039,0.2116066430304161,30,20,1.2684023668639053,9.763017859764734,0.9473886873400057,0.30734867612129085,0.2785711504539635,62.16,High,9,Severity (violation volume/weight),76.2,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."
+Btp027 - Modi Bridge Junction,4584,3346,245,12.998897494610553,77.54941567682627,6666,0.0534467713787085,0.2700698080279232,23,15,1.369994022713688,8.80492526261806,0.8241475494983567,0.31794320354816874,0.3840117424176961,58.43,High,10,Severity (violation volume/weight),70.5,"IPII = 0.5*severity + 0.3*behavioral + 0.2*density. Primary driver for this junction: Severity (violation volume/weight) (0       50.8
+1       58.0
+2       54.1
+3       62.8
+4       73.7
+       ...  
+163    100.0
+164    100.0
+165    100.0
+166    100.0
+167      0.0
+Name: top_factor_share_pct, Length: 168, dtype: str% of weighted score)."

@@ -1,0 +1,21 @@
+junction_name,months_active,earlier_period_avg,recent_period_avg,growth_rate_percent,uncapped_growth_rate_percent,avg_monthly_violations,latest_month_violations,latest_share,emerging_score,emerging_rank,trend_category,trend_direction,trend_strength,volume_severity,IPII,final_priority
+Btp051 - Safina Plaza Junction,5,2839.0,2734.5,-3.68,-3.68,2951.8,2980,1.09,61.36,1,Emerging,Decreasing,Stable,Very High Volume,67.81,65.23
+Btp082 - Kr Market Junction,5,1574.0,2521.0,60.17,60.17,2201.0,2648,1.05,62.14,2,Emerging,Increasing,Growing,Very High Volume,65.17,63.96
+Btp044 - Sagar Theatre Junction,5,1886.0,1830.0,-2.97,-2.97,1992.4,1728,0.94,49.37,3,Stable,Decreasing,Stable,Very High Volume,62.62,57.32
+Btp040 - Elite Junction,5,2103.5,1816.5,-13.64,-13.64,2005.6,2025,1.11,49.47,4,Stable,Decreasing,Stable,Very High Volume,62.42,57.24
+Btp042 - Minsk Square Junction (Cto),5,392.5,371.5,-5.35,-5.35,402.0,440,1.18,29.35,5,Low Growth,Decreasing,Stable,Medium Volume,72.3,55.12
+Btp058 - Subbanna Junction,5,1087.0,774.0,-28.79,-28.79,946.6,872,1.13,34.68,6,Stable,Decreasing,Declining,High Volume,68.48,54.96
+Btp020 - Hosahalli Metro Station,5,926.5,586.0,-36.75,-36.75,806.0,516,0.88,30.17,7,Stable,Decreasing,Declining,High Volume,71.08,54.72
+Btp032 - Windsor Circle,5,856.0,191.5,-77.63,-77.63,545.6,233,1.22,23.72,8,Low Growth,Decreasing,Declining,High Volume,71.09,52.14
+"Btp011 - Rr Kalyana Mantapa, Dr. Rajkumar Road",5,181.0,230.5,27.35,27.35,223.6,253,1.1,27.66,9,Low Growth,Increasing,Growing,Medium Volume,63.95,49.43
+Btp027 - Modi Bridge Junction,5,1002.0,742.0,-25.95,-25.95,867.0,666,0.9,32.95,10,Stable,Decreasing,Declining,High Volume,59.33,48.78
+Btp211 - Central Street Junction,5,824.0,896.5,8.8,8.8,1048.0,1093,1.22,39.39,11,Stable,Increasing,Stable,Very High Volume,54.28,48.32
+Btp130 - Gd Mara Junction,5,26.5,236.5,500.0,792.45,112.4,315,1.33,58.59,12,Emerging,Increasing,Rapid Growth,Medium Volume,40.52,47.75
+Btp057 - Anand Rao Junction,5,903.0,568.5,-37.04,-37.04,738.4,739,1.3,32.02,13,Stable,Decreasing,Declining,High Volume,54.27,45.37
+"Btp083 - As Char Street, Mysore Road",5,477.0,565.5,18.55,18.55,537.4,582,1.03,33.19,14,Stable,Increasing,Stable,High Volume,52.96,45.05
+"Btp001 - 10Th Cross, Dr. Rajkumar Road",5,460.5,610.0,32.46,32.46,524.4,703,1.15,35.2,15,Stable,Increasing,Growing,High Volume,47.95,42.85
+Btp172 - Nanjappa Circle,5,149.5,143.5,-4.01,-4.01,149.0,158,1.1,23.28,16,Low Growth,Decreasing,Stable,Medium Volume,55.69,42.73
+Btp023 - Mahalaxmi Layout Entrance,5,317.0,390.5,23.19,23.19,327.4,403,1.03,29.98,17,Low Growth,Increasing,Growing,Medium Volume,50.96,42.57
+"Btp080 - Nr Road, Sp Road Junction",5,685.0,794.0,15.91,15.91,698.8,652,0.82,35.2,18,Stable,Increasing,Stable,High Volume,46.51,41.99
+"Btp170 - Dr. Bheem Rao Palace, Chord Road",5,93.5,130.5,39.57,39.57,108.8,97,0.74,23.05,19,Low Growth,Increasing,Growing,Medium Volume,53.86,41.54
+Btp045 - Danvanthri Road Junction,5,750.5,385.0,-48.7,-48.7,602.8,449,1.17,27.84,20,Low Growth,Decreasing,Declining,High Volume,50.28,41.3
