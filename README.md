@@ -3,7 +3,7 @@
 
 🔗 **Live Dashboard:** [nammapark-ai.streamlit.app](https://nammapark-ai.streamlit.app/)
 
-Built for the **HackerEarth Gridlock hackathon** (MapmyIndia partner challenge), NammaPark AI turns ~298K raw Bengaluru parking violation records into a six-page interactive intelligence dashboard — surfacing hotspots, risk scores, emerging trouble spots, and enforcement recommendations for city traffic authorities.
+NammaPark AI turns ~298K raw Bengaluru parking violation records into a six-page interactive intelligence dashboard — surfacing hotspots, risk scores, emerging trouble spots, and enforcement recommendations for city traffic authorities.
 
 ---
 
